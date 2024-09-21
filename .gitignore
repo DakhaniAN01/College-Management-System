@@ -1,0 +1,11 @@
+/target/classes/com/adnan/projects/college_management/system/controller/Controller.class
+/target/classes/com/adnan/projects/college_management/system/Entity/Department.class
+/target/classes/com/adnan/projects/college_management/system/Entity/Staff.class
+/target/classes/com/adnan/projects/college_management/system/Entity/Student.class
+/target/classes/com/adnan/projects/college_management/system/Repository/DepartmentRepository.class
+/target/classes/com/adnan/projects/college_management/system/Repository/StaffRepository.class
+/target/classes/com/adnan/projects/college_management/system/Repository/StudentRepository.class
+/target/classes/com/adnan/projects/college_management/system/Service/StudentServ.class
+/target/classes/com/adnan/projects/college_management/system/CollegeManagementSystemApplication.class
+/target/classes/application.properties
+/target/test-classes/com/adnan/projects/college_management_system/CollegeManagementSystemApplicationTests.class
